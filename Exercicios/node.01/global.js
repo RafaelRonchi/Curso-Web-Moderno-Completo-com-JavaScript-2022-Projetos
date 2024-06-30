@@ -1,0 +1,3 @@
+globalThis.App = {
+    global: "ola"
+}
